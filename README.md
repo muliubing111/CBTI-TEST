@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CBTI — 程序员行为类型测试
 
 > Coder Behavior Type Indicator
@@ -128,3 +129,6 @@ npm run build
 ## 声明
 
 本测试仅供娱乐，别拿它当面试、晋升、相亲、跳槽的依据。
+=======
+# CBTI-TEST
+>>>>>>> dfa24e6e4da0367bc1043c9f2040b95220245dcb
